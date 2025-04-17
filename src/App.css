@@ -1,0 +1,24 @@
+/* @keyframes spin180 {
+ from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(180deg);
+  }
+}
+
+.Img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 200px 0px 0px 0px;
+}
+
+img {
+  display: block;
+  width: 20%;
+  height: auto;
+  margin: 0 auto;
+  animation: spin180 1s ease-in-out infinite alternate;
+}
+  */
